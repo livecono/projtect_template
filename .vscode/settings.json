@@ -1,0 +1,5 @@
+{
+        "testMate.cpp.test.advancedExecutables": [
+            "builddir/tests/widget_tests",
+        ]
+}
